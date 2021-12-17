@@ -1,0 +1,21 @@
+{
+  "name": "Todayweather",
+  "short_name": "Todayweather",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "cloudy192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "cloudy.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#1E90FF",
+  "background_color": "#1E90FF",
+  "display": "fullscreen",
+  "orientation": "portrait"
+}
