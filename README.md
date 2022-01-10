@@ -1,4 +1,4 @@
-# Today Weaather
+# Today Weather
 
 ## Descrição do Projeto
 
