@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-O Today  Weather é uma aplicação de previsão do tempo, que mostra informações sobre como temperatura, umidade e taxa de chuva do dia. Sua construção de baseia nos resutados da API GoWeather [https://golangweather.herokuapp.com/]. Esta aplicação possui recursos de PWA, assim é possivel instalar um icone na sua área de trabalho.
+O Today  Weather é uma aplicação de previsão do tempo, que mostra informações sobre como temperatura, velocidade do vento e a descrição do tempo. Sua construção de baseia nos resutados da API GoWeather [https://golangweather.herokuapp.com/]. Esta aplicação possui recursos de PWA, assim é possivel instalar um icone na sua área de trabalho.
 
 ### 🚧 Today Weather passará por melhorias...  🚧
 
@@ -17,8 +17,8 @@ O Today  Weather é uma aplicação de previsão do tempo, que mostra informaç�
 ### Features
 
 - [x] Temperatura
-- [x] Umidade
-- [x] Nivel de chuvas
+- [x] Velocidade do vento
+- [x] Descrição do dia
 - [x] Atalho da aplicação no seu dispositivo por PWA
 
 ### Pré-requisitos
